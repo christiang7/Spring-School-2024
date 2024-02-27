@@ -9,6 +9,8 @@ https://springschool.aei.mpg.de/
 Files for Spring School wolke7@AEI 
 https://wolke7.aei.mpg.de/s/NCKdE7oXyoxHznk?path=%2F
 
+sebastian.voelkel@aei.mpg.de
+
 A relativistic jet launched from a black hole-neutron star merger remnant  
 © K. Hayashi, K. Kiuchi (Max Planck Institute for Gravitational Physics & Kyoto University)
 
@@ -89,3 +91,5 @@ The excursions will go to the [Einstein Tower](https://www.aip.de/en/institute/l
 * Kenta Kiuchi
 * Axel Kleinschmidt
 * Jan Steinhoff
+
+
