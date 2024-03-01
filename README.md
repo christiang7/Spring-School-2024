@@ -2,7 +2,8 @@
 
 Notes for Spring-School-2024 https://christiang7.github.io/Spring-School-2024/
 
-Github Repository https://github.com/christiang7/Spring-School-2024
+* Github Repository https://github.com/christiang7/Spring-School-2024
+* Files for Spring School wolke7@AEI https://wolke7.aei.mpg.de/s/NCKdE7oXyoxHznk?path=%2F
 
 ## Lectures
 
@@ -59,12 +60,7 @@ Jürgen Ehlers Spring School – Potsdam, Feb 26 – March 8, 2024
 
 https://springschool.aei.mpg.de/
 
-Files for Spring School wolke7@AEI 
-
-https://wolke7.aei.mpg.de/s/NCKdE7oXyoxHznk?path=%2F
-
-
-A relativistic jet launched from a black hole-neutron star merger remnant  
+A relativistic jet launched from a black hole-neutron star merger remnant
 © K. Hayashi, K. Kiuchi (Max Planck Institute for Gravitational Physics & Kyoto University)
 
 organized by the Max Planck Institute for Gravitational Physics (Albert Einstein Institute).
