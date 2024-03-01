@@ -5,42 +5,69 @@ Notes for Spring-School-2024 https://christiang7.github.io/Spring-School-2024/
 
 ## Lectures
 
-### Introduction to GR
+
+### Introduction to general relativity and the theory of black holes
 sebastian.voelkel@aei.mpg.de
 
+* Bernard F. Schutz, A first course in General Relativity
+* James Hartle, Gravity: An Introduction to Einstein’s General Relativity
+* Ray D’Inverno, James Vickers, Introducing Einstein’s Relativity: A Deeper Understanding
+* Kip S. Thorne, Roger D. Blandford, Modern Classical Physics, Volume 5 (Relativity and Cosmology)/ Part VII
+* Michael Hobson, George Efstathiou, Anthony Lasenby, General Relativity (An introduction for physicists)
 
-### Black holes
+#### Black holes
 
 Geometry and physics of black holes https://relativite.obspm.fr/blackholes/
+
 Kretschmann-Skalar – Wikipedia https://de.wikipedia.org/wiki/Kretschmann-Skalar
+
 Krümmung – Wikipedia https://de.wikipedia.org/wiki/Kr%C3%BCmmung#Berechnung_der_Kr%C3%BCmmung_f%C3%BCr_parametrisierte_Kurven
+
 Kerr-Metrik – Wikipedia https://de.wikipedia.org/wiki/Kerr-Metrik
+
 Ring singularity - Wikipedia https://en.wikipedia.org/wiki/Ring_singularity
+
 Gravitational singularity - Wikipedia https://en.wikipedia.org/wiki/Gravitational_singularity
+
 Penrose process - Wikipedia https://en.wikipedia.org/wiki/Penrose_process
 
-
 ### Cosmology
+
+* Weinberg, S., Cosmology
+
 
 [1709.01091] Dark energy two decades after: Observables, probes, consistency tests https://arxiv.org/abs/1709.01091
 
 Atomic packing factor - Wikipedia https://en.wikipedia.org/wiki/Atomic_packing_factor
+
 Close-packing of equal spheres - Wikipedia https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
+
 Christoffel Symbols: A Complete Guide With Examples – Profound Physics https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
+
 Clifford Will – Wikipedia https://de.wikipedia.org/wiki/Clifford_Will
+
 Buchdahl's theorem - Wikipedia https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
+
 Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
 
+### Gravitational waves
 
 
-### Gravitational waves 
-
+* Eanna Flanagan, Scott A. Hughes, S., The Basics of Gravitational Wave Theory
+	[http://adsabs.harvard.edu/abs/2005NJPh%E2%80%A6.7..204F](http://adsabs.harvard.edu/abs/2005NJPh....7..204F)
+* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), The basic physics of the binary black hole merger
+	GW150914  [https://arxiv.org/abs/1608.01940](https://arxiv.org/abs/1608.01940)
+* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), Observation of Gravitational Waves from a Binary Black Hole Merger,
+	[https://arxiv.org/abs/1602.03837](https://arxiv.org/abs/1602.03837)
+	[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
 
 ## Website
 Jürgen Ehlers Spring School – Potsdam, Feb 26 – March 8, 2024 
+
 https://springschool.aei.mpg.de/
 
 Files for Spring School wolke7@AEI 
+
 https://wolke7.aei.mpg.de/s/NCKdE7oXyoxHznk?path=%2F
 
 
@@ -95,29 +122,6 @@ This week will give an overview of gravitational-wave astronomy. Topics include 
 
 The excursions will go to the [Einstein Tower](https://www.aip.de/en/institute/locations/einstein-tower/) in Potsdam and the [Einstein summer house](https://www.einsteinsommerhaus.de/en/sommerhaus/haus/) in Caputh.
 
-## Complementary Reading
-
-### Introduction to general relativity and the theory of black holes
-
-* Bernard F. Schutz, A first course in General Relativity
-* James Hartle, Gravity: An Introduction to Einstein’s General Relativity
-* Ray D’Inverno, James Vickers, Introducing Einstein’s Relativity: A Deeper Understanding
-* Kip S. Thorne, Roger D. Blandford, Modern Classical Physics, Volume 5 (Relativity and Cosmology)/ Part VII
-* Michael Hobson, George Efstathiou, Anthony Lasenby, General Relativity (An introduction for physicists)
-
-### Gravitational waves
-
-* Eanna Flanagan, Scott A. Hughes, S., The Basics of Gravitational Wave Theory  
-	[http://adsabs.harvard.edu/abs/2005NJPh%E2%80%A6.7..204F](http://adsabs.harvard.edu/abs/2005NJPh....7..204F)
-* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), The basic physics of the binary black hole merger  
-	GW150914  [https://arxiv.org/abs/1608.01940](https://arxiv.org/abs/1608.01940)
-* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), Observation of Gravitational Waves from a Binary Black Hole Merger,  
-	[https://arxiv.org/abs/1602.03837](https://arxiv.org/abs/1602.03837)  
-	[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
-
-### Cosmology
-
-* Weinberg, S., Cosmology
 
 ## Organizers
 
