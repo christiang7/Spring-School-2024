@@ -2,6 +2,7 @@
 
 Notes for Spring-School-2024 https://christiang7.github.io/Spring-School-2024/
 
+Github Repository https://github.com/christiang7/Spring-School-2024
 
 ## Lectures
 
