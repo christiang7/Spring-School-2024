@@ -35,29 +35,29 @@ Penrose process - Wikipedia https://en.wikipedia.org/wiki/Penrose_process
 
 * Weinberg, S., Cosmology
 
+* 1709.01091 Dark energy two decades after: Observables, probes, consistency tests
+    https://arxiv.org/abs/1709.01091
+* Atomic packing factor - Wikipedia
+    https://en.wikipedia.org/wiki/Atomic_packing_factor
+* Close-packing of equal spheres - Wikipedia
+    https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
 
-[1709.01091] Dark energy two decades after: Observables, probes, consistency tests https://arxiv.org/abs/1709.01091
+* Christoffel Symbols: A Complete Guide With Examples – Profound Physics https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
 
-Atomic packing factor - Wikipedia https://en.wikipedia.org/wiki/Atomic_packing_factor
+* Clifford Will – Wikipedia https://de.wikipedia.org/wiki/Clifford_Will
 
-Close-packing of equal spheres - Wikipedia https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
+* Buchdahl's theorem - Wikipedia https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
 
-Christoffel Symbols: A Complete Guide With Examples – Profound Physics https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
-
-Clifford Will – Wikipedia https://de.wikipedia.org/wiki/Clifford_Will
-
-Buchdahl's theorem - Wikipedia https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
-
-Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
+* Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
 
 ### Gravitational waves
 
 
 * Eanna Flanagan, Scott A. Hughes, S., The Basics of Gravitational Wave Theory
 	[http://adsabs.harvard.edu/abs/2005NJPh%E2%80%A6.7..204F](http://adsabs.harvard.edu/abs/2005NJPh....7..204F)
-* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), The basic physics of the binary black hole merger
+* B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), The basic physics of the binary black hole merger
 	GW150914  [https://arxiv.org/abs/1608.01940](https://arxiv.org/abs/1608.01940)
-* • B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), Observation of Gravitational Waves from a Binary Black Hole Merger,
+* B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), Observation of Gravitational Waves from a Binary Black Hole Merger,
 	[https://arxiv.org/abs/1602.03837](https://arxiv.org/abs/1602.03837)
 	[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
 
