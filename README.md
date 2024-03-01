@@ -18,24 +18,23 @@ sebastian.voelkel@aei.mpg.de
 
 #### Black holes
 
-Geometry and physics of black holes https://relativite.obspm.fr/blackholes/
+* Geometry and physics of black holes https://relativite.obspm.fr/blackholes/
 
-Kretschmann-Skalar – Wikipedia https://de.wikipedia.org/wiki/Kretschmann-Skalar
+* Kretschmann-Skalar – Wikipedia https://de.wikipedia.org/wiki/Kretschmann-Skalar
 
-Krümmung – Wikipedia https://de.wikipedia.org/wiki/Kr%C3%BCmmung#Berechnung_der_Kr%C3%BCmmung_f%C3%BCr_parametrisierte_Kurven
+* Krümmung – Wikipedia https://de.wikipedia.org/wiki/Kr%C3%BCmmung#Berechnung_der_Kr%C3%BCmmung_f%C3%BCr_parametrisierte_Kurven
 
-Kerr-Metrik – Wikipedia https://de.wikipedia.org/wiki/Kerr-Metrik
+* Kerr-Metrik – Wikipedia https://de.wikipedia.org/wiki/Kerr-Metrik
 
-Ring singularity - Wikipedia https://en.wikipedia.org/wiki/Ring_singularity
+* Ring singularity - Wikipedia https://en.wikipedia.org/wiki/Ring_singularity
 
-Gravitational singularity - Wikipedia https://en.wikipedia.org/wiki/Gravitational_singularity
+* Gravitational singularity - Wikipedia https://en.wikipedia.org/wiki/Gravitational_singularity
 
-Penrose process - Wikipedia https://en.wikipedia.org/wiki/Penrose_process
+* Penrose process - Wikipedia https://en.wikipedia.org/wiki/Penrose_process
 
 ### Cosmology
 
 * Weinberg, S., Cosmology
-
 * 1709.01091 Dark energy two decades after: Observables, probes, consistency tests
     https://arxiv.org/abs/1709.01091
 * Atomic packing factor - Wikipedia
