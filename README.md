@@ -19,17 +19,11 @@ sebastian.voelkel@aei.mpg.de
 #### Black holes
 
 * Geometry and physics of black holes https://relativite.obspm.fr/blackholes/
-
 * Kretschmann-Skalar – Wikipedia https://de.wikipedia.org/wiki/Kretschmann-Skalar
-
 * Krümmung – Wikipedia https://de.wikipedia.org/wiki/Kr%C3%BCmmung#Berechnung_der_Kr%C3%BCmmung_f%C3%BCr_parametrisierte_Kurven
-
 * Kerr-Metrik – Wikipedia https://de.wikipedia.org/wiki/Kerr-Metrik
-
 * Ring singularity - Wikipedia https://en.wikipedia.org/wiki/Ring_singularity
-
 * Gravitational singularity - Wikipedia https://en.wikipedia.org/wiki/Gravitational_singularity
-
 * Penrose process - Wikipedia https://en.wikipedia.org/wiki/Penrose_process
 
 ### Cosmology
@@ -41,17 +35,16 @@ sebastian.voelkel@aei.mpg.de
     https://en.wikipedia.org/wiki/Atomic_packing_factor
 * Close-packing of equal spheres - Wikipedia
     https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
-
-* Christoffel Symbols: A Complete Guide With Examples – Profound Physics https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
-
-* Clifford Will – Wikipedia https://de.wikipedia.org/wiki/Clifford_Will
-
-* Buchdahl's theorem - Wikipedia https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
-
-* Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
+* Christoffel Symbols: A Complete Guide With Examples – Profound Physics
+    https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
+* Clifford Will – Wikipedia
+    https://de.wikipedia.org/wiki/Clifford_Will
+* Buchdahl's theorem - Wikipedia
+    https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
+* Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks
+    https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
 
 ### Gravitational waves
-
 
 * Eanna Flanagan, Scott A. Hughes, S., The Basics of Gravitational Wave Theory
 	[http://adsabs.harvard.edu/abs/2005NJPh%E2%80%A6.7..204F](http://adsabs.harvard.edu/abs/2005NJPh....7..204F)
