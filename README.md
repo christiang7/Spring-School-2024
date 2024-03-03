@@ -89,21 +89,11 @@ E-Mail: springschool@aei.mpg.de
 
 A working knowledge of introductory university physics (classical mechanics, electromagnetism), and mathematics (advanced calculus, linear algebra) will be assumed. Some prior exposure to differential geometry is desirable but not required.
 
-## Abstracts
+## Schedule / Abstracts
 
 ### Week 1: Introduction to General Relativity, the Theory of Black Holes, and Cosmology
 
 The first week’s lectures will be devoted to the study of Einstein’s theory of General Relativity and the theoretical foundations for black holes. The lectures will be also devoted to Cosmology.
-
-### Week 2: Gravitational-Wave Astronomy and Quantum Gravity
-
-This week will give an overview of gravitational-wave astronomy. Topics include the theory of gravitational waves and a discussion of the major astrophysical sources of gravitational waves, most notably inspiraling compact object binaries (i.e. black holes or neutron stars). We will also offer a lecture on quantum field theory and quantum gravity.
-
-## Schedule
-
-
-
-**Week 1: Introduction to General relativity, the Theory of Black Holes, and Cosmology**
 
 | Time | Mon 26/2 | Tue 27/2 | Wed 28/2 | Thu 29/2 | Fri 1/3 |
 |--------------|-----------|------------|--------------|-----------|------------|
@@ -114,8 +104,9 @@ This week will give an overview of gravitational-wave astronomy. Topics include 
 | 15:45 – 17:15 | Exercises |  | **Excursion** | Exercises | Exercises |
 | evening       | Reception |           |               |           |           |
 
+### Week 2: Gravitational-Wave Astronomy and Quantum Gravity
 
-**Week 2: Gravitational-Wave Astronomy and Quantum Gravity**
+This week will give an overview of gravitational-wave astronomy. Topics include the theory of gravitational waves and a discussion of the major astrophysical sources of gravitational waves, most notably inspiraling compact object binaries (i.e. black holes or neutron stars). We will also offer a lecture on quantum field theory and quantum gravity.
 
 | Time | Mon 4/3 | Tue 5/3 | Wed 6/3 | Thu 7/3 | Fri 8/3 |
 |--------------|-----------|------------|--------------|-----------|------------|
