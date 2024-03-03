@@ -31,19 +31,19 @@ sebastian.voelkel@aei.mpg.de
 
 * Weinberg, S., Cosmology
 * 1709.01091 Dark energy two decades after: Observables, probes, consistency tests
-    https://arxiv.org/abs/1709.01091
+	https://arxiv.org/abs/1709.01091
 * Atomic packing factor - Wikipedia
-    https://en.wikipedia.org/wiki/Atomic_packing_factor
+	https://en.wikipedia.org/wiki/Atomic_packing_factor
 * Close-packing of equal spheres - Wikipedia
-    https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
+	https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres
 * Christoffel Symbols: A Complete Guide With Examples – Profound Physics
-    https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
+	https://profoundphysics.com/christoffel-symbols-a-complete-guide-with-examples/
 * Clifford Will – Wikipedia
-    https://de.wikipedia.org/wiki/Clifford_Will
+	https://de.wikipedia.org/wiki/Clifford_Will
 * Buchdahl's theorem - Wikipedia
-    https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
+	https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
 * Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks
-    https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
+	https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
 
 ### Gravitational waves
 
@@ -101,13 +101,31 @@ This week will give an overview of gravitational-wave astronomy. Topics include 
 
 ## Schedule
 
+
+
 **Week 1: Introduction to General relativity, the Theory of Black Holes, and Cosmology**
 
-<table><tbody><tr><td>&nbsp;</td><td>Mon 26/2</td><td>Tue 27/2</td><td>Wed 28/2</td><td>Thu 29/2</td><td>Fri 1/3</td></tr><tr><td>9:15 – 10:45</td><td><strong>General Relativity</strong> Sebastian Völkel<br></td><td><strong>General Relativity</strong><br>Sebastian Völkel</td><td><strong>General Relativity</strong><br>Sebastian Völkel</td><td><strong>Black Holes</strong><br>Karim van Aelst</td><td><strong>Cosmology</strong><br>Jean-Luc Lehners</td></tr><tr><td>11:00 – 12:30</td><td><strong>General Relativity</strong><br>Sebastian Völkel</td><td><strong>General Relativity</strong><br>Sebastian Völkel</td><td><strong>General Relativity</strong><br>Sebastian Völkel</td><td><strong>Black Holes</strong><br>Karim von Aelst</td><td><strong>Cosmology</strong><br>Jean-Luc Lehners</td></tr><tr><td>Lunch</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14:00 – 15:30</td><td>Exercises</td><td><strong>Colloquium</strong><br>Alberto Sesana</td><td><strong>Excursion</strong></td><td>Exercises</td><td>Exercises</td></tr><tr><td>15:45 – 17:15</td><td>Exercises</td><td></td><td><strong>Excursion</strong></td><td>Exercises</td><td>&nbsp;Exercises</td></tr><tr><td>evening</td><td>Reception&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+| Time | Mon 26/2 | Tue 27/2 | Wed 28/2 | Thu 29/2 | Fri 1/3 |
+|--------------|-----------|------------|--------------|-----------|------------|
+| 9:15 – 10:45 | **General Relativity** Sebastian Völkel  | **General Relativity**  Sebastian Völkel | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim van Aelst | **Cosmology** Jean-Luc Lehners |
+| 11:00 – 12:30 | **General Relativity**  Sebastian Völkel | **General Relativity** Sebastian Völkel | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim von Aelst | **Cosmology** Jean-Luc Lehners |
+| Lunch         |           |           |               |           |            |
+| 14:00 – 15:30 | Exercises |**Colloquium - Gravitational Wave** Alberto Sesana  | **Excursion** | Exercises | Exercises |
+| 15:45 – 17:15 | Exercises |  | **Excursion** | Exercises | Exercises |
+| evening       | Reception |           |               |           |           |
+
 
 **Week 2: Gravitational-Wave Astronomy and Quantum Gravity**
 
-<table><tbody><tr><td></td><td>Mon 4/3</td><td>Tue 5/3</td><td>Wed 6/3</td><td>Thu 7/3</td><td>Fri 8/3</td></tr><tr><td>9:15 – 10:45</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves data analysis</strong><br>Héctor Estellés</td><td><strong>Classical Gravity from Quantum Field Theory</strong><br>Gustav Mogull</td></tr><tr><td>11:00 – 12:30</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves</strong><br>Elisa Maggio</td><td><strong>Gravitational waves data analysis</strong><br>Héctor Estellés</td><td><strong>Quantum Gravity</strong><br>Hermann Nicolai</td></tr><tr><td>Lunch</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14:00 – 15:30</td><td>Exercises</td><td><strong>Supernova and neutron star formation</strong><br>Takami Kuroda</td><td><strong>Excursion</strong></td><td>Exercises</td><td></td></tr><tr><td>15:45 – 17:15</td><td>Exercises</td><td></td><td><strong>Excursion</strong></td><td>Exercises</td><td>&nbsp;</td></tr><tr><td>evening</td><td></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| Time | Mon 4/3 | Tue 5/3 | Wed 6/3 | Thu 7/3 | Fri 8/3 |
+|--------------|-----------|------------|--------------|-----------|------------|
+| 9:15 – 10:45 | **Gravitational waves**  Elisa Maggio | **Gravitational waves**  Elisa Maggio | **Gravitational waves**  Elisa Maggio | **Gravitational waves data analysis**  Héctor Estellés | **Classical Gravity from Quantum Field Theory**  Gustav Mogull |
+| 11:00 – 12:30 | **Gravitational waves**  Elisa Maggio | **Gravitational waves** Elisa Maggio | **Gravitational waves** Elisa Maggio | **Gravitational waves data analysis** Héctor Estellés | **Quantum Gravity** Hermann Nicolai |
+| Lunch         |           |           |               |           |      |
+| 14:00 – 15:30 | Exercises | **Supernova and neutron star formation** Takami Kuroda | **Excursion** | Exercises |  |
+| 15:45 – 17:15 | Exercises |                                                 | **Excursion** | Exercises |  |
+| evening       |           |                                                     |               |           |      |
+
 
 The excursions will go to the [Einstein Tower](https://www.aip.de/en/institute/locations/einstein-tower/) in Potsdam and the [Einstein summer house](https://www.einsteinsommerhaus.de/en/sommerhaus/haus/) in Caputh.
 
