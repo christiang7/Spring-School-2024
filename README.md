@@ -11,27 +11,27 @@ Notes for Spring-School-2024 https://christiang7.github.io/Spring-School-2024/
 
 The first week’s lectures will be devoted to the study of Einstein’s theory of General Relativity and the theoretical foundations for black holes. The lectures will be also devoted to Cosmology.
 
-| Time | Mon 26/2 | Tue 27/2 | Wed 28/2 | Thu 29/2 | Fri 1/3 |
-|--------------|-----------|------------|--------------|-----------|------------|
-| 9:15 – 10:45 | **General Relativity**  Sebastian Völkel  | **General Relativity**  Sebastian Völkel | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim van Aelst | **Cosmology** Jean-Luc Lehners |
-| 11:00 – 12:30 | **General Relativity**  Sebastian Völkel | **General Relativity** Sebastian Völkel | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim von Aelst | **Cosmology** Jean-Luc Lehners |
-| Lunch         |           |           |               |           |            |
-| 14:00 – 15:30 | Exercises |**Colloquium - Gravitational Wave** Alberto Sesana  | **Excursion** | Exercises | Exercises |
-| 15:45 – 17:15 | Exercises |  | **Excursion** | Exercises | Exercises |
-| evening       | Reception |           |               |           |           |
+| Time          | Mon 26/2                                 | Tue 27/2                                           | Wed 28/2                                 | Thu 29/2                         | Fri 1/3                        |
+|---------------|------------------------------------------|----------------------------------------------------|------------------------------------------|----------------------------------|--------------------------------|
+| 9:15 – 10:45  | **General Relativity**  Sebastian Völkel | **General Relativity**  Sebastian Völkel           | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim van Aelst | **Cosmology** Jean-Luc Lehners |
+| 11:00 – 12:30 | **General Relativity**  Sebastian Völkel | **General Relativity** Sebastian Völkel            | **General Relativity**  Sebastian Völkel | **Black Holes**  Karim von Aelst | **Cosmology** Jean-Luc Lehners |
+| Lunch         |                                          |                                                    |                                          |                                  |                                |
+| 14:00 – 15:30 | Exercises                                | **Colloquium - Gravitational Wave** Alberto Sesana | **Excursion**                            | Exercises                        | Exercises                      |
+| 15:45 – 17:15 | Exercises                                |                                                    | **Excursion**                            | Exercises                        | Exercises                      |
+| evening       | Reception                                |                                                    |                                          |                                  |                                |
 
 ### Week 2: Gravitational-Wave Astronomy and Quantum Gravity
 
 This week will give an overview of gravitational-wave astronomy. Topics include the theory of gravitational waves and a discussion of the major astrophysical sources of gravitational waves, most notably inspiraling compact object binaries (i.e. black holes or neutron stars). We will also offer a lecture on quantum field theory and quantum gravity.
 
-| Time | Mon 4/3 | Tue 5/3 | Wed 6/3 | Thu 7/3 | Fri 8/3 |
-|--------------|-----------|------------|--------------|-----------|------------|
-| 9:15 – 10:45 | **Gravitational waves**  Elisa Maggio | **Gravitational waves**  Elisa Maggio | **Gravitational waves**  Elisa Maggio | **Gravitational waves data analysis**  Héctor Estellés | **Classical Gravity from Quantum Field Theory**  Gustav Mogull |
-| 11:00 – 12:30 | **Gravitational waves**  Elisa Maggio | **Gravitational waves** Elisa Maggio | **Gravitational waves** Elisa Maggio | **Gravitational waves data analysis** Héctor Estellés | **Quantum Gravity** Hermann Nicolai |
-| Lunch         |           |           |               |           |      |
-| 14:00 – 15:30 | Exercises | **Supernova and neutron star formation** Takami Kuroda | **Excursion** | Exercises |  |
-| 15:45 – 17:15 | Exercises |                                                 | **Excursion** | Exercises |  |
-| evening       |           |                                                     |               |           |      |
+| Time          | Mon 4/3                               | Tue 5/3                                                | Wed 6/3                               | Thu 7/3                                                | Fri 8/3                                                        |
+|---------------|---------------------------------------|--------------------------------------------------------|---------------------------------------|--------------------------------------------------------|----------------------------------------------------------------|
+| 9:15 – 10:45  | **Gravitational waves**  Elisa Maggio | **Gravitational waves**  Elisa Maggio                  | **Gravitational waves**  Elisa Maggio | **Gravitational waves data analysis**  Héctor Estellés | **Classical Gravity from Quantum Field Theory**  Gustav Mogull |
+| 11:00 – 12:30 | **Gravitational waves**  Elisa Maggio | **Gravitational waves** Elisa Maggio                   | **Gravitational waves** Elisa Maggio  | **Gravitational waves data analysis** Héctor Estellés  | **Quantum Gravity** Hermann Nicolai                            |
+| Lunch         |                                       |                                                        |                                       |                                                        |                                                                |
+| 14:00 – 15:30 | Exercises                             | **Supernova and neutron star formation** Takami Kuroda | **Excursion**                         | Exercises                                              |                                                                |
+| 15:45 – 17:15 | Exercises                             |                                                        | **Excursion**                         | Exercises                                              |                                                                |
+| evening       |                                       |                                                        |                                       |                                                        |                                                                |
 
 
 The excursions will go to the [Einstein Tower](https://www.aip.de/en/institute/locations/einstein-tower/) in Potsdam and the [Einstein summer house](https://www.einsteinsommerhaus.de/en/sommerhaus/haus/) in Caputh.
@@ -84,6 +84,16 @@ sebastian.voelkel@aei.mpg.de
 * B. P. Abbott et al. (The LIGO Scientific Collaboration, the Virgo Collaboration), Observation of Gravitational Waves from a Binary Black Hole Merger,
 	[https://arxiv.org/abs/1602.03837](https://arxiv.org/abs/1602.03837)
 	[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
+
+* Geodesic deviation - Wikipedia  https://en.wikipedia.org/wiki/Geodesic_deviation  
+* Geodesic deviation 
+ https://web.archive.org/web/20111116174208/http://www.mth.uct.ac.za/omei/gr/chap6/node11.html
+* GraceDB | The Gravitational-Wave Candidate Event Database 
+ https://gracedb.ligo.org/
+* GraceDB | LVK Public Alerts 
+ https://gracedb.ligo.org/superevents/public/O4/
+
+
 
 ## Description
 Jürgen Ehlers Spring School – Potsdam, Feb 26 – March 8, 2024
