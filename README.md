@@ -74,6 +74,14 @@ sebastian.voelkel@aei.mpg.de
 	https://en.wikipedia.org/wiki/Buchdahl%27s_theorem
 * Rev. Mod. Phys. 87, 637 (2015) - Optical atomic clocks
 	https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.637#fulltext
+Cosmic microwave background - Wikipedia
+ https://en.wikipedia.org/wiki/Cosmic_microwave_background
+Gravitational wave background - Wikipedia
+ https://en.wikipedia.org/wiki/Gravitational_wave_background
+Cosmic neutrino background - Wikipedia
+ https://en.wikipedia.org/wiki/Cosmic_neutrino_background
+
+
 
 ### Gravitational waves
 
@@ -92,6 +100,44 @@ sebastian.voelkel@aei.mpg.de
  https://gracedb.ligo.org/
 * GraceDB | LVK Public Alerts 
  https://gracedb.ligo.org/superevents/public/O4/
+Kugelflächenfunktionen – Wikipedia
+ https://de.wikipedia.org/wiki/Kugelfl%C3%A4chenfunktionen
+Visualization of Spherical Harmonics
+ http://icgem.gfz-potsdam.de/vis3d/tutorial
+
+#### Supernova and neutron star formation
+Long-term simulations of multi-dimensional core-collapse supernovae: Implications for neutron star kicks | Publications of the Astronomical Society of Japan | Oxford Academic
+ https://academic.oup.com/pasj/article/71/5/98/5549889?login=false
+Tomoya Takiwaki (0000-0003-0304-9283) - ORCID
+ https://orcid.org/0000-0003-0304-9283
+Fresh X-Rays Reveal a Universe as Clumpy as Cosmology Predicts | Quanta Magazine
+ https://www.quantamagazine.org/fresh-x-rays-reveal-a-universe-as-clumpy-as-cosmology-predicts-20240304/
+Elliptic Curve ‘Murmurations’ Found With AI Take Flight | Quanta Magazine
+ https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/
+Supernova Ejecta Interacting with a Circumstellar Disk. I. Two-dimensional Radiation-hydrodynamic Simulations - IOPscience
+ https://iopscience.iop.org/article/10.3847/1538-4357/ab5a83
+(PDF) A Theory for Neutron Star and Black Hole Kicks and Induced Spins
+ https://www.researchgate.net/publication/378625846_A_Theory_for_Neutron_Star_and_Black_Hole_Kicks_and_Induced_Spins
+An Instability in Neutron Stars at Birth | Science
+ https://www.science.org/doi/10.1126/science.258.5081.430
+
+
+#### Data Analysis
+Likelihood-ratio test - Wikipedia
+ https://en.wikipedia.org/wiki/Likelihood-ratio_test
+Gravitational Waves Data Analysis | A Quest After Perspectives
+ https://iphysresearch.github.io/blog/project/gwda/
+yi-fan-wang (yi-fan-wang) / Repositories · GitHub
+ https://github.com/yi-fan-wang?tab=repositories
+GitHub - yi-fan-wang/PhDThesisandOtherNotes: This repository collects my thesis and notes on my research.
+ https://github.com/yi-fan-wang/PhDThesisandOtherNotes/tree/master
+GitHub - gwastro/pycbc: Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
+ https://github.com/gwastro/pycbc
+Learning Path 
+https://gwosc.org/path/
+GW Open Science Center 
+https://gwosc.org/
+
 
 
 
