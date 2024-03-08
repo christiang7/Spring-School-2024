@@ -1,13 +1,13 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-====== 2024-03-08-slides-2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf ======
+====== 2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf ======
 Text date: [[Zettelkasten:2024:03:08|2024-03-08]] Modi date: [[Zettelkasten:2024:03:08|2024-03-08]]
 @ARTIKEL  
-[*] **[[../2024-03-08-slides-2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf]] **
+[*] **[[../2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf]] **
 aei.mpg.de
 
 
-{{../2024-03-08-slides-2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf.avif?width=500}}
+{{../2024-03-08-slides-Classical_Gravity_from_Quantum_field_theory.pdf.avif?width=500}}
 
 Pages:           10
 
