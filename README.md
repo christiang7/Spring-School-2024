@@ -1,6 +1,6 @@
 # Spring-School-2024
 
-Notes for Spring-School-2024 https://christiang7.github.io/Spring-School-2024/
+Notes for Spring-School-2024
 
 * Github Repository https://github.com/christiang7/Spring-School-2024
 * Files for Spring School wolke7@AEI https://wolke7.aei.mpg.de/s/GYW5XYJJHPTZZbz
